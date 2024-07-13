@@ -31,6 +31,8 @@ public class Principal {
         var opcion = -1;
         while (opcion != 0) {
             var menu = """
+                    --------------------------------------------------------
+                    ##############        LITERALURA            ###########
                     1 - Buscar libros por titulo
                     2 - Buscar libros registrados
                     3 - Buscar autores registrados

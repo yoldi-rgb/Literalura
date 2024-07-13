@@ -58,7 +58,7 @@ Asegúrate de tener instalado lo siguiente antes de comenzar:
 ## Uso
 
 Una vez que la aplicación esté en ejecución, se presentará un menú interactivo en la consola. Sigue las instrucciones en pantalla para:
-
+<img src="" alt="menu interactivo" width="200" height="200">
 
 
 ## Estructura del Proyecto

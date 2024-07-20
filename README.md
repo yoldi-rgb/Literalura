@@ -1,6 +1,8 @@
 
 # Literalura
 
+<img src= "badge literalura.png" alt="badge">
+
 Literalura es un sistema de gestión de libros y autores desarrollado con Spring Boot, JPA y PostgreSQL. Este proyecto proporciona una interfaz interactiva para realizar diversas operaciones relacionadas con la gestión de una biblioteca digital, incluyendo búsqueda de libros, registro de autores, y más.
 
 ## Características
